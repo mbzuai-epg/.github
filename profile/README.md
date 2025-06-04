@@ -25,38 +25,10 @@ The Embodied Perception Group explores the intersection of perception, action, a
 
 ---
 
-## 📁 Projects
-
-We work on a range of foundational and applied research projects. Some of our current themes include:
-
-* Learning from embodied interaction in simulation and real environments
-* Robotic perception and manipulation for real-world tasks
-* Scalable visual understanding via foundation models
-* Visual navigation with spatial reasoning and memory
-* Multisensory learning and 3D scene comprehension
-
-Please visit our [official website](#) (insert link) for more details on ongoing and past projects.
-
----
-
 ## 🤝 Collaborations
 
 We actively collaborate with leading academic institutions, research labs, and industry partners. If you are interested in working with us, feel free to reach out.
 
----
-
-## 🧑‍🔬 Join Us
-
-We are always looking for passionate researchers and students who are excited about embodied intelligence and perception. If you're interested in internships, graduate research, or postdoctoral positions, please contact us with your CV and a brief statement of interest.
-
----
-
-## 📫 Contact
-
-**Embodied Perception Group**
-Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-Abu Dhabi, UAE
-📧 \[[email@example.com](mailto:email@example.com)] (replace with actual contact)
 
 ---
 
